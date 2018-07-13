@@ -13,3 +13,9 @@ Sample website with plenty of files for demos
 ## Sections
 
 New
+
+## Section 2
+
+Old
+
+## Section 3
