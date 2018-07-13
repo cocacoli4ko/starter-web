@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-##Deploy
+## Deploy
+
+Hi there
 
 ## Purpose
 
