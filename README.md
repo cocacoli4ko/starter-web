@@ -18,4 +18,6 @@ New
 
 Old
 
-## Section 3
+## Copyright
+
+This is copyright
