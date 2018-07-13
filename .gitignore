@@ -1,3 +1,4 @@
 copy.html
 *.log
 log/
+*.orig
