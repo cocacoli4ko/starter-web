@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 ## Sections
 
 New
+New 2
+News
 
 ## Section 2
 
