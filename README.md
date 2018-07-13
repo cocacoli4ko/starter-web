@@ -15,6 +15,7 @@ Sample website with plenty of files for demos
 New
 New 2
 News
+More news
 
 ## Section 2
 
